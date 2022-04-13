@@ -1,1 +1,1 @@
-# tf-aprendizado-transferencia-classificacao-gato-cachorro
+# Exemplo de classificaçao de gato e/ou cachorro utilizando aprendizagem por transferencia.
